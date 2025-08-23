@@ -9,16 +9,16 @@ Web developer
 Show Contacts
 
 Email
-richard@example.com
+patilrohit35464@gmail.com
 
 Phone
-+1 (213) 352-2795
++91 8767901203
 
 Birthday
-June 23, 1982
+october 04, 2004
 
 Location
-Sacramento, California, USA
+Mumbai, Maharashtra, INDIA
 
 # navbar
 
