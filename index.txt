@@ -1,8 +1,8 @@
-vCard - Personal Portfolio
+Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
+alt = Rohit patil
 Richard hanrick
 Web developer
 
