@@ -27,5 +27,6 @@ jobs:
           aws-region: us-east-1
 
       - name: Deploy Static Website to S3
-        run: aws s3 sync s3://rohit-my-unique-bucket-name-1234569988 --delete
+        run: aws s3 sync s3://source-bucket/folder-name s3://destination-bucket/folder-name --delete
+
         
