@@ -44,6 +44,4 @@ jobs:
           docker push ${{ secrets.DOCKER_USERNAME }}/portfolio:latest
 
       # Run container (optional for testing in GitHub Actions)
-      - name: Run Docker container
-        run: |
-          docker run -d -p 8080:80 ${{ secrets.DOCKER_USERNAME }}/portfolio:latest
+    
